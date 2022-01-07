@@ -26,4 +26,80 @@ Anything software and hardware is my passion.
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 45 Contributions in the Year 2022
+ > 
+> 📦 952.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    143 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
+🌆 Daytime    252 commits    ███████░░░░░░░░░░░░░░░░░░   30.62% 
+🌃 Evening    338 commits    ██████████░░░░░░░░░░░░░░░   41.07% 
+🌙 Night      90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.94%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       160 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
+Tuesday      117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
+Wednesday    142 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.25% 
+Thursday     125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+Friday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
+Saturday     69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
+Sunday       91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.06%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Rust** 
+
+```text
+Rust                     16 repos            █████████████░░░░░░░░░░░░   55.17% 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/FlareFlo/FlareFlo/main/charts/bar_graph.png) 
+
+
+ Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
