@@ -26,6 +26,8 @@ Anything software and hardware is my passion.
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -69,16 +71,21 @@ Sunday       83 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     42 mins             ███████░░░░░░░░░░░░░░░░░░   30.62% 
+SCSS                     37 mins             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.22% 
+TOML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.67%
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    2 hrs 20 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+wt_data_sheets_wasm      2 hrs 13 mins       ███████████████████████░░   94.99% 
+wt_missile_calc          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.01%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
@@ -99,5 +106,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FlareFlo/FlareFlo/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/01/2022
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
