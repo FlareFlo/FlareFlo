@@ -34,7 +34,7 @@ Anything software and hardware is my passion.
 
 > 🏆 95 Contributions in the Year 2022
  > 
-> 📦 943.6 kB Used in GitHub's Storage 
+> 📦 943.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
