@@ -26,13 +26,11 @@ Anything software and hardware is my passion.
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2012%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 135 Contributions in the Year 2022
+> 🏆 136 Contributions in the Year 2022
  > 
 > 📦 943.7 kB Used in GitHub's Storage 
  > 
