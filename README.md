@@ -26,7 +26,7 @@ Anything software and hardware is my passion.
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -109,5 +109,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FlareFlo/FlareFlo/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/01/2022 12:25:21 UTC
+ Last Updated on 21/01/2022 14:17:38 UTC
 <!--END_SECTION:waka-->
