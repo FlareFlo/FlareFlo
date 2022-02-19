@@ -108,5 +108,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FlareFlo/FlareFlo/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/02/2022 18:47:02 UTC
+ Last Updated on 19/02/2022 18:45:14 UTC
 <!--END_SECTION:waka-->
