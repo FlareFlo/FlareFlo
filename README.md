@@ -1,5 +1,5 @@
 Anything software or hardware is my passion.
-Reach me here <a href="mailto:mail@flareflo.dev">mail@flareflo.dev</a>
+Reach me here <a href="mailto:github@flareflo.dev">mail@flareflo.dev</a>
 
 [![FlareFlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlareFlo&show_icons=true&theme=github_dark)](https://github.com/FlareFlo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlareFlo&langs_count=10&layout=compact&theme=github_dark)](https://github.com/FlareFlo/github-readme-stats)
