@@ -27,7 +27,7 @@ Reach me here <a href="mailto:github@flareflo.dev">mail@flareflo.dev</a>
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,7 +35,7 @@ Reach me here <a href="mailto:github@flareflo.dev">mail@flareflo.dev</a>
 
 > 🏆 1,429 Contributions in the Year 2022
  > 
-> 📦 974.7 kB Used in GitHub's Storage 
+> 📦 974.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,5 +111,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FlareFlo/FlareFlo/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/11/2022 18:51:01 UTC
+ Last Updated on 05/11/2022 18:48:11 UTC
 <!--END_SECTION:waka-->
