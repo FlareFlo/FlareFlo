@@ -27,7 +27,7 @@ Reach me here <a href="mailto:github@flareflo.dev">github@flareflo.dev</a>
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,5 +112,5 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FlareFlo/FlareFlo/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/02/2023 18:44:43 UTC
+ Last Updated on 09/02/2023 18:45:01 UTC
 <!--END_SECTION:waka-->
