@@ -1,5 +1,6 @@
-Anything software or hardware is my passion.
-Reach me here <a href="mailto:github@flareflo.dev">github@flareflo.dev</a>
+Anything software and (digital-)hardware is my passion.
+
+Reach out to me here <a href="mailto:github@flareflo.dev">github@flareflo.dev</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
