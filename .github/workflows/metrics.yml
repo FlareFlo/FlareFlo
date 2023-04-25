@@ -16,7 +16,7 @@ jobs:
           template: classic
           base: header, repositories, metadata
           name: WakaTime
-          filename: metrics.plugin.wakatime.svg
+          filename: /metrics.svg
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKETIME_API_KEY }}
