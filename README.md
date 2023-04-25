@@ -2,6 +2,8 @@ Anything software and (digital-)hardware is my passion.
 
 Reach out to me here <a href="mailto:github@flareflo.dev">github@flareflo.dev</a>
 
+![Metrics](/github-metrics.svg)
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
