@@ -2,7 +2,7 @@ Anything software and (digital-)hardware is my passion.
 
 Reach out to me here <a href="mailto:github@flareflo.dev">github@flareflo.dev</a>
 
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.wakatime.svg)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
