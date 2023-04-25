@@ -17,6 +17,11 @@ jobs:
           base: header, repositories, metadata
           name: WakaTime
           filename: metrics.svg
+          
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKETIME_API_KEY }}
+          
+          plugin_licenses: yes
+          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+          plugin_licenses_legal: yes
