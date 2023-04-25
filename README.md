@@ -4,6 +4,7 @@ Reach out to me here <a href="mailto:github@flareflo.dev">github@flareflo.dev</a
 
 ![Metrics](/github-metrics.svg)
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -25,11 +26,10 @@ Reach out to me here <a href="mailto:github@flareflo.dev">github@flareflo.dev</a
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </div>
+--!>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2027%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
