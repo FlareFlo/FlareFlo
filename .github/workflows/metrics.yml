@@ -23,6 +23,6 @@ jobs:
           plugin_lines: yes
           
           plugin_wakatime: yes
-          plugin_wakatime_days: 365
+          plugin_wakatime_days: 30
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKETIME_API_KEY }}
