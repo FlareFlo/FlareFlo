@@ -14,9 +14,10 @@ jobs:
           token: ${{ secrets.METRICS }}
           user: FlareFlo
           template: classic
-          base: header, repositories, metadata
-          name: WakaTime
+          base: header, repositories, metadata, activity, community
           filename: metrics.svg
+          
+          plugin_lines: yes
           
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
