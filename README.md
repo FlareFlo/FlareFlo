@@ -1,5 +1,6 @@
 Reach out to me here <a href="mailto:github@flareflo.dev">github@flareflo.dev</a>
 
+[![Tracked hours on wakatime](https://wakatime.com/badge/user/173552dc-1914-4b8a-b699-f51afe24d22a.svg)](https://wakatime.com/@173552dc-1914-4b8a-b699-f51afe24d22a)  
 ![Metrics](/metrics.svg)
 
 <!--
