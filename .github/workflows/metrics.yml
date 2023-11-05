@@ -28,7 +28,6 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKETIME_API_KEY }}
           
           plugin_followup: yes
-          plugin_followup_indepth: yes
 
           plugin_languages: yes
           plugin_languages_indepth: yes
